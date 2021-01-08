@@ -17,7 +17,7 @@
 
 **PyTorch：学术界普遍使用 。开发新模型简单，尤其是 NLP 领域。**
 
-
+> 可以使用pip install xxx 进行安装
 
 ## 初学者入门
 
@@ -44,3 +44,11 @@ python基础
 ## 进阶:
 
 找几个相关的项目,深入研究代码
+
+
+
+例子
+
+[电动汽车价格预测](https://github.com/ztianming/DeepLearning/tree/main/ElectricCarPriceForecast)
+
+[LSTM预测HTTP请求数](https://github.com/ztianming/DeepLearning/tree/main/RNNDemo)
